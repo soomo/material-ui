@@ -2,7 +2,7 @@
   "name": "@soomo/material-ui",
   "private": true,
   "author": "Material-UI Team, plus some hacks by Sean",
-  "version": "0.18.611",
+  "version": "0.18.612",
   "description": "React Components that Implement Google's Material Design.",
   "main": "./src/index.js",
   "keywords": [
